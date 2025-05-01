@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ercilan 二次蓝
 - 👀 I’m interested in decrypting and reversing JavaScript、Android
-- 🍅 I’m currently learning python
-- 🍎正在学习中。。。。。。
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
